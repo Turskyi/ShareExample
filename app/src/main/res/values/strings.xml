@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareExample</string>
+    <string name="share">share</string>
+    <string name="facebook_app_id">285452062466394</string>
+</resources>
